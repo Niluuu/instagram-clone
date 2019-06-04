@@ -23,6 +23,13 @@
   color: #61dafb;
 }
 
+.border-btw-logo {
+  background-color: #262626;
+  height: 28px;
+  margin: 0 16px;
+  width: 1px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -30,4 +37,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.user-name {
+  font-weight: 100;
+}
+
+.bg-img {
+  background-repeat: no-repeat !important;
+  background-size: cover;
+  background-position: center; 
 }
