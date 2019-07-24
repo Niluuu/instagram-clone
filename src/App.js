@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import Appbar from './components/Appbar'
 import  ContainerGrid  from './components/ContainerGrid'
-import App from './'
 
 
 export class App extends Component {
